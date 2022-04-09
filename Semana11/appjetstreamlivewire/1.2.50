@@ -1,0 +1,4 @@
++ @swc/core@1.2.161
+added 2 packages from 1 contributor and audited 848 packages in 16.429s
+found 1 moderate severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details

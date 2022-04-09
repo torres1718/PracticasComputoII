@@ -1,0 +1,4 @@
++ @types/webpack@5.28.0
+added 1 package from 22 contributors and audited 817 packages in 5.592s
+found 1 moderate severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
